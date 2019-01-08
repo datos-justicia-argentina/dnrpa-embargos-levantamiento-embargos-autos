@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** desde el 01-01-2018 a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** anotaciones de embargos y levantamientos de embargos desde el 01-01-2018 a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
