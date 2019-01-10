@@ -8,7 +8,7 @@ http://datos.jus.gob.ar/dataset/embargos-y-levantamiento-de-embargos-de-autos
 Características
 ---------------
 
--   **Fecha de Primera Publicación:** 
+-   **Fecha de Primera Publicación:** 10/01/2019
 
 -   **Tags o Etiquetas:** autos, registración, registros seccionales, titulares, embargos, trámites, vehículos, automotores, DNRPA
 
