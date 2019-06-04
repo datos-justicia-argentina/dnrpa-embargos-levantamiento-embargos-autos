@@ -25,9 +25,9 @@ Características
 Recursos disponibles
 --------------------
 
-### DNRPA. Embargos y levantamiento de embargos de autos - AAAA-MM
+### DNRPA. Embargos y levantamiento de embargos de autos - AAAAMM
 
--   **Nombre del archivo:** embargos-levantamiento-embargos-autos-AAAA-MM.csv
+-   **Nombre del archivo:** embargos-levantamiento-embargos-autos-AAAAMM.csv
 
 -   **Descripción del contenido:** se detallan las anotaciones de embargos y levantamientos de embargos realizados en los Registros Seccionales de la Propiedad Automotor en el mes MM del año AAAA
 
